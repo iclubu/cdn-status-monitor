@@ -5,6 +5,7 @@ This tool aggregates the live status of major CDN providers (Cloudflare, Fastly,
 
 ## 🚀 Live Demo
 (https://iclubu.github.io/cdn-status-monitor/)
+**Note on Live Demo:** For security and API quota protection, the public demo is set to a "Configuration Required" state. This prevents the public from using the project's private Google Apps Script instance. To see the dashboard in action, follow the **Installation** steps below to connect your own backend.
 
 ## 🛠 Installation
 
