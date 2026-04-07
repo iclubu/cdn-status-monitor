@@ -4,7 +4,7 @@
 This tool aggregates the live status of major CDN providers (Cloudflare, Fastly, Akamai, AWS) into a single, clean interface. It uses Google Apps Script as a middleware to bypass CORS restrictions, ensuring zero data storage and maximum privacy.
 
 ## 🚀 Live Demo
-[Deploy your own via GitHub Pages]
+(https://iclubu.github.io/cdn-status-monitor/)
 
 ## 🛠 Installation
 
